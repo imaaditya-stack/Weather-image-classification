@@ -1,7 +1,7 @@
 # Weather-image-classification
 
 ## Dataset
-Link : https://data.mendeley.com/datasets/4drtyfjtfy/1
+Link : https://data.mendeley.com/datasets/4drtyfjtfy/1 <br>
 Multi class weather dataset contains different images of weather.
 There are four classes :
 <li>Cloudy</li>
